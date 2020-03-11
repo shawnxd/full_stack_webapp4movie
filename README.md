@@ -1,3 +1,7 @@
+# Introduction
+This is a web application built based on MEAN stack. If you have any questions, please contact: shawnxd@alumni.upenn.edu
+  
+# Instructions
 Please follow the below instruction to run this project.
 - Extract the zip file (NodeApp.zip)
 - Open a new terminal window
